@@ -1,0 +1,6 @@
+__pycashe__/
+*.pyc 
+*.pyo
+.pytest_cache/
+app/controllers/__pycache__/
+app/models/__pycache__/
